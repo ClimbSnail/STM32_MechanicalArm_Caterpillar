@@ -1,0 +1,10 @@
+..\obj\my_gpio.o: ..\HARDWARE\steering\my_gpio.c
+..\obj\my_gpio.o: ..\HARDWARE\steering\my_gpio.h
+..\obj\my_gpio.o: ..\SYSTEM\sys\sys.h
+..\obj\my_gpio.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\my_gpio.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\my_gpio.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\my_gpio.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\my_gpio.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\my_gpio.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\my_gpio.o: ..\SYSTEM\sys\system_stm32f4xx.h

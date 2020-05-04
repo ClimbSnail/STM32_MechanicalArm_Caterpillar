@@ -1,0 +1,12 @@
+..\obj\steering.o: ..\HARDWARE\steering\steering.c
+..\obj\steering.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\steering.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\steering.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\steering.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\steering.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\steering.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\steering.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\steering.o: ..\HARDWARE\steering\steering.h
+..\obj\steering.o: ..\HARDWARE\TIMER\timer.h
+..\obj\steering.o: ..\SYSTEM\sys\sys.h
+..\obj\steering.o: ..\HARDWARE\LED\led.h
