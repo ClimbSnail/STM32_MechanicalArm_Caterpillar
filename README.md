@@ -1,7 +1,7 @@
-### »ùÓÚSTM32µÄ»úĞµ±ÛÂÄ´ø³µ
-´´×÷Ê±¼ä2017.02
+### åŸºäºSTM32çš„æœºæ¢°è‡‚å±¥å¸¦è½¦
+åˆ›ä½œæ—¶é—´2017.02
 
-BÕ¾ÊÓÆµ[Á´½Ó](https://b23.tv/BV1Gs411L7gU) https://b23.tv/BV1Gs411L7gU
+Bç«™è§†é¢‘[é“¾æ¥](https://b23.tv/BV1Gs411L7gU) https://b23.tv/BV1Gs411L7gU
 
-#### ÊµÎï×÷Æ·Í¼
-![image](https://github.com/ClimbSnail/STM32_MechanicalArm_Caterpillar/blob/master/image.jpg)
+#### å®ç‰©ä½œå“å›¾
+![image](./image.jpg)
